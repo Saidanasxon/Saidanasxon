@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Saidanasxon Saydullayev
+- 👀 I’m interested in Python programming
