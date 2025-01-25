@@ -6,9 +6,7 @@ Backend developer
 
 I was bor in Uzbekistan
 
-* 🌍  I'm based in Uzbekistan
 * ✉️  You can contact me at [saydullayevsaidanasxon@gmail.com](mailto:saydullayevsaidanasxon@gmail.com)
-* 🧠  I'm learning Python Django
 
 <a href="https://www.github.com/Saidanasxon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Saidanasxon?logo=github&style=for-the-badge&color=14b8a6&labelColor=ffffff" /></a>
